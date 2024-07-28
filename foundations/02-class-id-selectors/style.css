@@ -1,0 +1,19 @@
+#firstid {
+    color: rgb(58, 58, 91);
+    font-size: 36px;
+}
+
+#secondid {
+    background-color: rgb(94, 125, 94);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class {
+    background-color: rgb(182, 95, 95);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.class.uppapa {
+    font-size: 24px;
+}
